@@ -1,4 +1,4 @@
-# Hello World, I'm Alejandro! :wave:
+# :wave: Hello World, I'm Alejandro! 
 
 _Self-taught Full Stack Developer based in Los Angeles, California._
 
@@ -15,9 +15,10 @@ _Self-taught Full Stack Developer based in Los Angeles, California._
 
 
 ## Recent
-
+- :fire: learned about node callback hell
 - 📦 set learning material repos private
 - :atom: Learned React
 - :books: Learned Database CRUD
 - :space_invader: Created Simon Game using JavaScript
 - :camel: Updated custom video player
+
