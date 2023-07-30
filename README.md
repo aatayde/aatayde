@@ -6,7 +6,8 @@ Check out my [Portfolio Page](https://aatayde.github.io)
 
 ## Goals
 
-- :dart: 2023: Complete Free Code Camp Curriculum
+- :dart: 2024: Complete Free Code Camp Curriculum
+- :dart: 2023: Linux+ Certification
 - :dart: ~~2022: Create personal finance tools~~
 
 ## Current Working on...
