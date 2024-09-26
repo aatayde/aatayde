@@ -24,6 +24,7 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Projects Completed
 
+- 🐳 [Docker/Portainer Valheim Server](https://github.com/lloesche/valheim-server-docker)
 - 💯 [100 Days Of Code](https://aatayde.github.io/100DaysOfCode) Challenge
 - 🥧 [Raspberry Pi | NAS](https://pimylifeup.com/raspberry-pi-openmediavault)
 - 🥧 [Raspberry Pi | Plex Server](https://pimylifeup.com/raspberry-pi-plex-server)
