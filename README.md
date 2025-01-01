@@ -6,8 +6,9 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Goals
 
-- 🏔️ 2024: Complete Free Code Camp Curriculum
+- 🏔️ 2025: Network Plus Certification
 - 🎯 2024: Complete 100 Days of Code
+- ~~🏔️ 2024: Complete Free Code Camp Curriculum~~
 - ~~🏔️ 2023: Linux+ Certification~~
 - ~~🏔️ 2022: Create personal finance tools~~
 
