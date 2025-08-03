@@ -7,6 +7,7 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 ## Goals
 
 - 🏔️ 2025: Network Plus Certification
+- 🏔️ 2025: BCAC
 - 🎯 2024: Complete 100 Days of Code
 - ~~🏔️ 2024: Complete Free Code Camp Curriculum~~
 - ~~🏔️ 2023: Linux+ Certification~~
