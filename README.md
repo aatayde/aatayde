@@ -6,23 +6,25 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Goals
 
-- 🏔️ 2025: Network Plus Certification
-- 🏔️ 2025: BCAC
-- 🎯 2024: Complete 100 Days of Code
+- 🏔️ 2026: Security Plus Certification
+- 🏔️ 2026: 30 days of CSS
+- ~~🎯 2025: 🔥 Breaking out of tutorial hell~~
+- ~~🏔️ 2025: Network Plus Certification~~
+- ~~🏔️ 2025: BCAC~~
+- ~~🎯 2024: Complete 100 Days of Code~~
 - ~~🏔️ 2024: Complete Free Code Camp Curriculum~~
 - ~~🏔️ 2023: Linux+ Certification~~
 - ~~🏔️ 2022: Create personal finance tools~~
 
 ## Current Working on...
 
-- 🔧 [Portfolio Page](https://aatayde.github.io)
-- 🌦️ [Weather App](https://aatayde.github.io/Weather-App)
 - 💰 [Budget App](https://aatayde.github.io/budget-budi)
-- 🔥 Breaking out of tutorial hell
 
 ## Recently Completed
 
+- 🔧 [Portfolio Page](https://aatayde.github.io)
 - 📦 Set learning material repositories to private
+- 🌦️ [Weather App](https://aatayde.github.io/Weather-App)
 
 ## Projects Completed
 
