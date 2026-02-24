@@ -28,6 +28,7 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Projects Completed
 
+- 🥧 [Raspberry Pi | moOde audio player](https://github.com/moode-player/moode)
 - 🐳 [Docker/Portainer Valheim Server](https://github.com/lloesche/valheim-server-docker)
 - 💯 [100 Days Of Code](https://aatayde.github.io/100DaysOfCode) Challenge
 - 🥧 [Raspberry Pi | NAS](https://pimylifeup.com/raspberry-pi-openmediavault)
