@@ -8,6 +8,7 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 - 🏔️ 2026: Security Plus Certification
 - 🏔️ 2026: 30 days of CSS
+- ~~🎯 2025 : WDE™ – Certified Entry-Level Web Developer~~
 - ~~🎯 2025: 🔥 Breaking out of tutorial hell~~
 - ~~🏔️ 2025: Network Plus Certification~~
 - ~~🏔️ 2025: BCAC~~
