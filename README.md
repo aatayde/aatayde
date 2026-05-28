@@ -6,6 +6,7 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Goals
 
+<<<<<<< HEAD
 - 🎯 2026: ISC2 CC - Certified in Cybersecurity
 - 🎯 2025: 🔥 Breaking out of tutorial hell
 - 🎯 2024: Complete 100 Days of Code
@@ -18,6 +19,18 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 - 🏔️ 30 days of CSS
 - 🏔️ Complete Free Code Camp Curriculum
 - 🏔️ Create personal finance tools
+=======
+- 🏔️ 2026: Security Plus Certification
+- 🏔️ 2026: 30 days of CSS
+- ~~🎯 2025 : WDE™ – Certified Entry-Level Web Developer~~
+- ~~🎯 2025: 🔥 Breaking out of tutorial hell~~
+- ~~🏔️ 2025: Network Plus Certification~~
+- ~~🏔️ 2025: BCAC~~
+- ~~🎯 2024: Complete 100 Days of Code~~
+- ~~🏔️ 2024: Complete Free Code Camp Curriculum~~
+- ~~🏔️ 2023: Linux+ Certification~~
+- ~~🏔️ 2022: Create personal finance tools~~
+>>>>>>> 0fa386f5583fa088e668d03055024f78bea34462
 
 ## Current Working on...
 
