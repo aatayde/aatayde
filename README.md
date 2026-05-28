@@ -19,8 +19,6 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 - 🏔️ 30 days of CSS
 - 🏔️ Complete Free Code Camp Curriculum
 - 🏔️ Create personal finance tools
-- 🏔️ 2026: Security Plus Certification
-- 🏔️ 2026: 30 days of CSS
 
 ## Current Working on...
 
