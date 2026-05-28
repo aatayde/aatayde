@@ -1,20 +1,23 @@
 # 👋 Hello World, I'm Alejandro!
 
-_Self-taught Full Stack Developer based in Arizona._
+_Self-taught Developer based in Arizona._
 
 Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Goals
 
-- 🏔️ 2026: Security Plus Certification
-- 🏔️ 2026: 30 days of CSS
-- ~~🎯 2025: 🔥 Breaking out of tutorial hell~~
-- ~~🏔️ 2025: Network Plus Certification~~
-- ~~🏔️ 2025: BCAC~~
-- ~~🎯 2024: Complete 100 Days of Code~~
-- ~~🏔️ 2024: Complete Free Code Camp Curriculum~~
-- ~~🏔️ 2023: Linux+ Certification~~
-- ~~🏔️ 2022: Create personal finance tools~~
+- 🎯 2026: ISC2 CC - Certified in Cybersecurity
+- 🎯 2025: 🔥 Breaking out of tutorial hell
+- 🎯 2024: Complete 100 Days of Code
+- 🎯 2017: Network Pro Certification
+- 🎯 2017: PC Pro Certification
+- 🎯 2013: A+ Certification
+- 🏔️ Security Plus Certification
+- 🏔️ Network Plus Certification
+- 🏔️ Linux+ Certification
+- 🏔️ 30 days of CSS
+- 🏔️ Complete Free Code Camp Curriculum
+- 🏔️ Create personal finance tools
 
 ## Current Working on...
 
