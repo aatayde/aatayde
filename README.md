@@ -22,7 +22,11 @@ Check out my [Portfolio Page!](https://aatayde.github.io)
 
 ## Current Working on...
 
-- 💰 [Budget App](https://aatayde.github.io/budget-budi)
+- 🏔️ Security Plus Certification
+
+## Future Projects
+
+- 💰 Budget App
 
 ## Recently Completed
 
